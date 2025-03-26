@@ -1,5 +1,17 @@
 
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+
 Hi I'm Gabriela Nirmal a Computer Science student concentrating in Artificial Intelligence at Northeastern University
+
+
+<!--
+     This is the list of my skills and tools I am studying!
+-->
+
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css)](https://skillicons.dev)
 
 <!--
      Fast links to my socials!
@@ -18,10 +30,14 @@ Hi I'm Gabriela Nirmal a Computer Science student concentrating in Artificial In
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://docs.google.com/document/d/12x0FexAR-E4crzjeCt13Eu9Jx_VGFokFp7Uu8Z2mKCw/edit?usp=sharing" download>Download my resume</a>
+> <a href="https://docs.google.com/document/d/12x0FexAR-E4crzjeCt13Eu9Jx_VGFokFp7Uu8Z2mKCw/edit?usp=sharing" download>Download My Resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
 <!--
      Thanks for being my guest <3
 -->
+
+
+
+
