@@ -10,8 +10,8 @@ Hi I'm Gabriela Nirmal a Computer Science student concentrating in Artificial In
      This is the list of my skills and tools I am studying!
 -->
 
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css)](https://skillicons.dev)
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css,processing)](https://skillicons.dev)
 
 <!--
      Fast links to my socials!
