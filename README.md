@@ -11,7 +11,7 @@ Hi I'm Gabriela Nirmal a Computer Science student concentrating in Artificial In
 -->
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css,processing)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=java,python,javascript,html,css,processing)](https://skillicons.dev)
 
 <!--
      Fast links to my socials!
