@@ -30,7 +30,7 @@ Hi I'm Gabriela Nirmal a Computer Science student concentrating in Artificial In
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://docs.google.com/document/d/12x0FexAR-E4crzjeCt13Eu9Jx_VGFokFp7Uu8Z2mKCw/edit?usp=sharing" download>Download My Resume</a>
+> <a href="https://drive.google.com/file/d/1dMxodl6HoQgh9HhpfrKuEvwhF52QvKYX/view?usp=sharing" download>Download My Resume</a>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#c390e0&height=120&section=footer" alt="footer"/>
