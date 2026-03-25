@@ -33,7 +33,7 @@ Hi I'm Gabriela Nirmal a Computer Science student concentrating in Artificial In
 > <a href="https://www.gabynirmal.com/resume.pdf" download>Download My Resume</a>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#c390e0&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#c390e0&height=120&section=footer&reversal=true" alt="footer"/>
 
 <!--
      Thanks for being my guest <3
