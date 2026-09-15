@@ -1,8 +1,4 @@
 
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#c390e0&height=120&section=header" alt="header"/> 
-
 Hi I'm Gabriela Nirmal a Computer Science student concentrating in Artificial Intelligence at Northeastern University
 
 
